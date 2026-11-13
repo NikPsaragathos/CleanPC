@@ -1,0 +1,2 @@
+# Keep Windows line endings byte-for-byte - cmd misparses labels with LF
+*.bat -text
